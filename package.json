@@ -1,0 +1,14 @@
+{
+  "name": "maaz-code",
+  "version": "1.0.0",
+  "description": "my first node code",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maaz hussain",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
